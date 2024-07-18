@@ -1,1 +1,1 @@
-# Boot Java practice codes in
+# Java practice codes from lecture
